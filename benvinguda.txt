@@ -1,5 +1,6 @@
 Ismael Romero
 (A) Benvinguda a la branca 01 IsmaelRomero
 (B) Modificació 01 Main IsmaelRomero
+(C) Benvinguda a la branca 02 IsmaelRomero
 (D) Modificació 02 Main IsmaelRomero
 (E) Afegim imatge a branca01
